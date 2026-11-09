@@ -1,0 +1,9 @@
+Package: com.aflatoon.suite
+Name: AflatoonSuite
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Description: Merged standalone DomainSniffer + ServerTester with automatic ALL / CHAT auto-testing. By Aflatoon.
+Maintainer: Aflatoon
+Author: Aflatoon
+Section: Tweaks
+Depends:
